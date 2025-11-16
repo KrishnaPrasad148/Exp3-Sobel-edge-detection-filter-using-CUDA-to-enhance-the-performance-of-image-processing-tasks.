@@ -169,7 +169,7 @@ int main() {
    - Experiment with adaptive block sizes for larger images.
 
 ## RESULT:
-Thus the program has been executed by using CUDA to ________________.
+Thus the program has been executed by using CUDA to Sobel implement Edge detection filter.
 
 
 
