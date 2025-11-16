@@ -1,9 +1,8 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-<h3>AIM:</h3>
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>NAME : KRISHNA PRASAD S</h3>
+<h3>REGISTER NO : 212223230108</h3>
+<h3>EX. NO : 3</h3>
+<h3>DATE : 29/10/25</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
   Implement Sobel edge detection filtern using GPU.</h3>
 Experiment Details:
@@ -136,7 +135,7 @@ int main() {
 
 | Original 	|  Output using Cuda |
 |:-:	|:-:	|
-| ![creative2](https://github.com/user-attachments/assets/4ebd5792-49d3-4302-8363-0948d56ea11d) | <img width="513" height="401" alt="image" src="https://github.com/user-attachments/assets/d2c51980-937b-4288-9ed7-e97578c7414c" /> |
+|  ![archery1](https://github.com/user-attachments/assets/48d62db3-c831-413b-b540-83949f0d4847) | <img width="924" height="482" alt="sobel_output2" src="https://github.com/user-attachments/assets/dabfcddf-ad8d-4015-af14-ffdd10e272bf" />|
 
 | Original 	|  Output using OpenCV |
 |:-:	|:-:	|
