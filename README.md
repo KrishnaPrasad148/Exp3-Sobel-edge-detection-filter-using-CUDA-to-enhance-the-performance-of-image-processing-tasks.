@@ -142,13 +142,9 @@ int main() {
 |  ![archery1](https://github.com/user-attachments/assets/48d62db3-c831-413b-b540-83949f0d4847) |  <img width="950" height="530" alt="sobel_output" src="https://github.com/user-attachments/assets/a9d14a45-f1e3-4f01-b8b9-27efbfbe3905" />|
 
 - **Sample Execution Results**:
-  - **CUDA Execution Times (Sobel filter) AND OpenCV Execution Time**
-  </br>
 <img width="250" height="56" alt="image" src="https://github.com/user-attachments/assets/bc42154f-6124-4fdf-9129-d7e53a82377c" />
 
 - **Graph Analysis**:
-  - Displayed a graph showing the relationship between image size, block size, and execution time.
- </br>
 
 <img width="585" height="468" alt="image" src="https://github.com/user-attachments/assets/1cf9bb69-5174-4af7-99f7-abb590647d89" />
 
